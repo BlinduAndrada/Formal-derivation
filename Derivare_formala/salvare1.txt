@@ -1,0 +1,4 @@
+Introduceti functia:
+cos(x)*x^2+4
+Derivata functiei:
+(-sin(x))*x^2+cos(x)*2*x

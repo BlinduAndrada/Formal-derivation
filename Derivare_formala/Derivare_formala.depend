@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673204656 source:c:\users\andra\onedrive\desktop\derivare_formala\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+
